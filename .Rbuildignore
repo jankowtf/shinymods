@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^man-roxygen
+^inst/examples
+^lib
+^revdep$
+^tests
+^vignettes/.*\.jar$
